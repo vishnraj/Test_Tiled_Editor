@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/test_tiled_editor.unity
+  isLoaded: 1
+  isActive: 1
