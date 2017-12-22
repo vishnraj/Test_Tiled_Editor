@@ -17,5 +17,9 @@ namespace Utility {
 
         abstract public void action();
     }
+
+    abstract public class Range_type : Item {
+        public int ammo_held = 10; // default starting amount
+    }
 }
 

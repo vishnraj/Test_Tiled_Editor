@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Utility;
 
-public class Raygun : Utility.Item {
-
+public class Raygun : Utility.Range_type {
 	// Use this for initialization
 	private void Start () {
 		
